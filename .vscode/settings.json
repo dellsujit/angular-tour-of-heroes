@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7a60461a-4dcb-44dd-806b-31b384e6ce4a/resourceGroups/AngularSigin/providers/Microsoft.Web/sites/DellappSingin",
+    "appService.deploySubpath": "dist"
+}
